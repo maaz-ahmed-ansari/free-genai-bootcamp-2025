@@ -26,6 +26,27 @@ The table should only include nouns, verbs, adverbs, adjectives
 
 ### Sentence Structure
 - do not provide particles in the sentence structure
+- do not provide tenses or conjugations in the sentence structure
+- remember to consider beginner level sentence structure
+
+Here is an example of simple sentence structures.
+- Example: I read the book.
+Structure: (Subject) + (Object) + (Verb).
+
+- Example: I do not read the book.
+Structure: (Subject) + (Object) + (Verb).
+
+- Example: Did you read the book?
+Structure: (Subject) + (Object) + (Verb)?
+
+- Example: Close the door.
+Structure: (Verb) + (Object).
+
+- Example: He ate the food.
+Structure: (Subject) + (Object) + (Verb).
+
+- Example: She will go to school.
+Structure: (Subject) + (Object) + (Verb).
 
 ### Clues and Considerations
 - try and provide a non-nested bulleted list
