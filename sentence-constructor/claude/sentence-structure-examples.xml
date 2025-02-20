@@ -1,0 +1,31 @@
+<sentence-structure-examples>
+    <example>
+        <sentences>I read the book.</sentences>
+        <structure>(Subject) + (Object) + (Verb).</structure>
+    </example>
+
+    <example>
+        <sentences>I do not read the book.</sentences>
+        <structure>(Subject) + (Object) + (Verb).</structure>
+    </example>
+
+    <example>
+        <sentences>Did you read the book?</sentences>
+        <structure>(Subject) + (Object) + (Verb)?</structure>
+    </example>
+
+    <example>
+        <sentences>Close the door.</sentences>
+        <structure>(Verb) + (Object).</structure>
+    </example>
+
+    <example>
+        <sentences>He ate the food.</sentences>
+        <structure>(Subject) + (Object) + (Verb).</structure>
+    </example>
+
+    <example>
+        <sentences>She will go to school.</sentences>
+        <structure>(Subject) + (Object) + (Verb).</structure>
+    </example>
+</sentence-structure-examples>
