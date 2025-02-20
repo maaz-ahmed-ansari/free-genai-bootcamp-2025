@@ -1,0 +1,35 @@
+<examples>
+    <example>
+        <output>
+            Clues to Consider:
+
+                - The first part describes the state of the office (coldness)
+                - We need to connect the two thoughts with "therefore" in Urdu
+                - Think about how to express "need to" in Urdu
+                - Consider how "in office" would be expressed with the right particle
+                - Both parts are in present tense
+                - Consider if you want to add "very" to cold - think about how to intensify adjectives
+            Would you like to try forming the sentence? I can provide more specific clues for any part!
+        </output>
+        <score>6</score>
+        <score:reason>
+            This example output scores 6 because the returned information is too verbose.
+        </score:reason>
+    </example>
+    <example>
+        <output>
+            Clues to Consider:
+
+                - Add a location marker after "office"
+                - The first part needs a verb for "it is"
+                - Don't forget to add "need to" before the action
+                - Think about present tense conjugation
+
+            Would you like to try forming the sentence?
+        </output>
+        <score>10</score>
+        <score:reason>
+            This example output scores 10 because the returned information concise.
+        </score:reason>
+    </example>
+</examples>
